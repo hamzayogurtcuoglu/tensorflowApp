@@ -1,6 +1,6 @@
-1) - linear regression , nonlinear regression,logistic regression , activation library
-2) bildiğin convolution neural network object detection
-3) recurrent neural network -nlp
+1)linear regression , nonlinear regression,logistic regression , activation library
+2)bildiğin convolution neural network object detection
+3)recurrent neural network -nlp
 4)unsupervised learning - movie recommendation system
 5)autoencoder
 
